@@ -1,2 +1,2 @@
 # git3
-Salom 
+Salom Tajikistan
